@@ -1,0 +1,11 @@
+C:\Users\dario\source\repos\City.API\City.API\bin\Debug\netcoreapp2.0\City.API.deps.json
+C:\Users\dario\source\repos\City.API\City.API\bin\Debug\netcoreapp2.0\City.API.runtimeconfig.json
+C:\Users\dario\source\repos\City.API\City.API\bin\Debug\netcoreapp2.0\City.API.runtimeconfig.dev.json
+C:\Users\dario\source\repos\City.API\City.API\bin\Debug\netcoreapp2.0\City.API.dll
+C:\Users\dario\source\repos\City.API\City.API\bin\Debug\netcoreapp2.0\City.API.pdb
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.csprojAssemblyReference.cache
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.AssemblyInfo.cs
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.dll
+C:\Users\dario\source\repos\City.API\City.API\obj\Debug\netcoreapp2.0\City.API.pdb
